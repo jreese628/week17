@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+
+}
+.Cards{
+  width: 60%;
+    margin: 16px 16px auto;
+    border: 1px solid salmon;
+    box-shadow: 0 2px 3px sandybrown;
+    padding: 16px;
+    text-align: center;
+    background-color: skyblue;
+    display: inline-flex;
+  }
+h1{
+  text-align: center;
+}
